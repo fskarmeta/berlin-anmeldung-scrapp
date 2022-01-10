@@ -1,0 +1,21 @@
+{
+  "name": "anmeldung-scrapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "audic": "^3.0.0",
+    "axios": "^0.24.0",
+    "axios-cookiejar-support": "^2.0.3",
+    "cheerio": "^1.0.0-rc.10",
+    "open": "^8.4.0",
+    "tough-cookie": "^4.0.0"
+  }
+}
